@@ -1,0 +1,23 @@
+<JaxTeller718>
+	<append xpath="/recipes">
+
+		<recipe name="jackOLanternBlueRH" count="1" craft_time="2">
+			<ingredient name="foodCropPumpkin" count="1"/>
+			<ingredient name="candle" count="1"/>
+			<ingredient name="modDyeBlue" count="1"/>
+		</recipe>
+
+		<recipe name="jackOLanternGreenRH" count="1" craft_time="2">
+			<ingredient name="foodCropPumpkin" count="1"/>
+			<ingredient name="candle" count="1"/>
+			<ingredient name="modDyeGreen" count="1"/>
+		</recipe>
+
+		<recipe name="jackOLanternRedRH" count="1" craft_time="2">
+			<ingredient name="foodCropPumpkin" count="1"/>
+			<ingredient name="candle" count="1"/>
+			<ingredient name="modDyeRed" count="1"/>
+		</recipe>
+
+	</append>
+</JaxTeller718>

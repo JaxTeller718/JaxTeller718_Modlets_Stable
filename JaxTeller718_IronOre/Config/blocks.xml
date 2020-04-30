@@ -1,0 +1,14 @@
+<JaxTeller718>
+
+
+
+
+	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Harvest']/@name">resourceIronFragment</set>
+	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Harvest']/@count">21</set>
+
+	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Fall']/@name">resourceIronFragment</set>
+	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Fall']/@count">30</set>
+
+	<set xpath="/blocks/block[@name='oreIronBoulder']/drop[@event='Harvest']/@name">resourceIronFragment</set>
+	<set xpath="/blocks/block[@name='oreIronBoulder']/drop[@event='Harvest']/@count">21</set>  
+</JaxTeller718>

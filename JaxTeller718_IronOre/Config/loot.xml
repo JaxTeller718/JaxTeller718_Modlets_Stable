@@ -1,0 +1,7 @@
+<JaxTeller718>
+
+	<set xpath="/lootcontainers/lootgroup[@name='forgeLoot']/item[@name='resourceScrapIron']/@name">resourceIronFragment</set>
+	<set xpath="/lootcontainers/lootgroup[@name='forgeLoot']/item[@name='resourceIronFragment']/@count">10,20</set>
+
+
+</JaxTeller718>

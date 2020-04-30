@@ -1,0 +1,5 @@
+<JaxTeller718>
+
+	<set xpath="/entity_classes/entity_class/property[@name='AITarget-4' and @data='class=EntityPlayer,0,0,EntityNPC,0,0']/@data">class=EntityPlayer,10,30,EntityNPC,0,0</set>
+
+</JaxTeller718>

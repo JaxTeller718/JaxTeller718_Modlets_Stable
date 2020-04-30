@@ -1,0 +1,9 @@
+<JaxTeller718>
+	<remove xpath="/lootcontainers/lootcontainer[@id='21']/item[@name='drinkJarBoiledWater']" />
+
+	<set xpath="/lootcontainers/lootgroup[@name='drinks']/item[@name='drinkJarBoiledWater']/@count">1</set>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='36']/item[@name='drinkJarBoiledWater']/@count">1</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='47']/item[@name='drinkJarBoiledWater']/@count">1</set>
+
+</JaxTeller718>

@@ -1,0 +1,12 @@
+<JaxTeller718>
+
+
+	<append xpath="/items/item[@name='meleeKnucklesSteel']" >
+		<property name="Meshfile" value="#Other/Items?Weapons/Melee/Knuckles/knuckles_Prefab.prefab"/>
+
+	</append>
+
+	<set xpath="/items/item[@name='meleeKnucklesSteel']/effect_group[@name='meleeKnucklesSteel']/triggered_effect[@prefab='#Other/Items?Weapons/Melee/Knuckles/knucklesSpiked_Prefab.prefab']/@prefab">#Other/Items?Weapons/Melee/Knuckles/knuckles_Prefab.prefab</set>
+
+
+</JaxTeller718>

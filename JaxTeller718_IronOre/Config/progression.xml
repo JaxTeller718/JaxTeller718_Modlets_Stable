@@ -1,0 +1,10 @@
+<JaxTeller718>
+
+
+	<append xpath="/progression/perks/perk[@name='perkArtOfMiningPallets']">
+		<effect_group>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="1" tags="resourceIronFragmentBundle"/>
+		</effect_group>
+	</append>
+
+</JaxTeller718>

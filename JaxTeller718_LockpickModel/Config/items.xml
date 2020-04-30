@@ -1,0 +1,11 @@
+<JaxTeller718>
+
+
+	<append xpath="/items/item[@name='resourceLockPick']" >
+		<property name="Meshfile" value="#@modfolder:Resources/JaxTeller718_Lockpick.unity3d?lockpickPrefab"/>
+
+	</append>
+
+
+
+</JaxTeller718>

@@ -1,0 +1,11 @@
+﻿Key,Source,Context,English
+sinkKit,items,Item,Sink Repair Kit
+sinkKitDesc,items,Item,"This sink repair kit is used with a hammer to take a broken sink and make it a working one that you can use to fill jars."
+coolerKit,items,Item,Water Cooler Repair Kit
+coolerKitDesc,items,Item,"This cooler repair kit is used with a hammer to take a broken water cooler and make it a working one that you can use to fill jars."
+workingGraniteSink,blocks,Block,Working Granite Sink
+workingGraniteSinkDesc,blocks,Block,"A working sink can be used to fill jars and buckets."
+workingCabinetOldSink,blocks,Block,Working Old Sink
+workingCabinetOldSinkDesc,blocks,Block,"A working sink can be used to fill jars and buckets."
+workingWaterCoolerFull,blocks,Block,Working Water Cooler
+workingWaterCoolerFullDesc,blocks,Block,"A working cooler can be used to fill jars."

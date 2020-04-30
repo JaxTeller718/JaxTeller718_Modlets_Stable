@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_TougherFarming" />
+		<Description value="Requires sunlight for crops to grow (this is default commented out) and increases grow time per stage from 63 minutes to 83 minutes." />
+		<Author value="JaxTeller718" />
+		<Version value="1.0" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

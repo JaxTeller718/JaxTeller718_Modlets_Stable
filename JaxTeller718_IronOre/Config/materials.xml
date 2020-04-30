@@ -1,0 +1,13 @@
+<JaxTeller718>
+	<append xpath="/materials">	
+
+		<material id="MresourceIronFragment">
+			<property name="damage_category" value="metal"/>
+			<property name="surface_category" value="metal"/>
+			<property name="forge_category" value="iron"/>
+			<property name="Experience" value="9"/>
+		</material>
+
+
+	</append>
+</JaxTeller718>

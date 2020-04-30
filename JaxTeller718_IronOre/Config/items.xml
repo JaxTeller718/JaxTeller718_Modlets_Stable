@@ -1,0 +1,30 @@
+<JaxTeller718>
+
+	<append xpath="/items">	
+
+		<item name="resourceIronFragmentBundle">
+			<property name="Extends" value="resourceRockSmallBundle"/>
+			<property name="CustomIcon" value="resourceIronFragment"/>
+			<property class="Action0">
+				<property name="Create_item" value="resourceIronFragment"/>
+				<property name="Create_item_count" value="1200"/>
+			</property>
+		</item>
+
+		<item name="resourceIronFragment">
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="MresourceIronFragment"/>
+			<property name="Weight" value="5"/>
+			<property name="Stacknumber" value="1200"/>
+			<!-- STK resource -->
+			<property name="SellableToTrader" value="false"/>
+			<property name="EconomicValue" value="25"/>
+			<property name="EconomicBundleSize" value="5"/>
+			<property name="Group" value="Resources"/>
+		</item>
+
+	</append>
+
+</JaxTeller718>

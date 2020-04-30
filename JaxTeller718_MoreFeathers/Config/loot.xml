@@ -1,0 +1,5 @@
+<JaxTeller718>
+
+	<set xpath="/lootcontainers/lootgroup[@name='groupBirdNest']/item[@name='resourceFeather']/@count">2,7</set>
+
+</JaxTeller718>

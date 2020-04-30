@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_ReducedHarvestResources" />
+		<Description value="Reduces the harvests of polymers, cloth and other items from blocks" />
+		<Author value="JaxTeller718" />
+		<Version value="1.1" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

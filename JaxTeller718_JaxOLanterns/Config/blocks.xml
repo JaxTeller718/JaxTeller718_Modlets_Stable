@@ -1,0 +1,68 @@
+<JaxTeller718>
+
+	<append xpath="/blocks">
+
+		<block name="jackOLanternBlueRH">
+			<property name="Material" value="Morganic" />
+			<property name="CanPickup" value="true" />
+			<property name="MaxDamage" value="50" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/JaxTeller718_LightedPumpkins.unity3d?jackOLanternBlue.prefab" />
+			<property name="Collide" value="sight,movement,melee,bullet,arrow,rocket" />
+			<property name="DescriptionKey" value="jackOLanternDesc" />
+			<property name="Stacknumber" value="5"/>
+			<property name="HeatMapStrength" value="0.5"/>
+			<property name="HeatMapTime" value="600"/>
+			<property name="HeatMapFrequency" value="1"/>
+			<!--once per minute it adds heat map strength -->
+			<property name="FilterTags" value="fdecor,fother" />
+			<property class="RepairItems">
+				<property name="resourceYuccaFibers" value="1"/>
+			</property>
+			<property name="SellableToTrader" value="false" />
+		</block>
+
+		<block name="jackOLanternGreenRH">
+			<property name="Material" value="Morganic" />
+			<property name="CanPickup" value="true" />
+			<property name="MaxDamage" value="200" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/JaxTeller718_LightedPumpkins.unity3d?jackOLanternGreen.prefab" />
+			<property name="Collide" value="sight,movement,melee,bullet,arrow,rocket" />
+			<property name="DescriptionKey" value="jackOLanternDesc" />
+			<property name="Stacknumber" value="5"/>
+			<property name="HeatMapStrength" value="0.5"/>
+			<property name="HeatMapTime" value="600"/>
+			<property name="HeatMapFrequency" value="1"/>
+			<!--once per minute it adds heat map strength -->
+			<property name="FilterTags" value="fdecor,fother" />
+			<property class="RepairItems">
+				<property name="resourceYuccaFibers" value="1"/>
+			</property>
+			<property name="SellableToTrader" value="false" />
+		</block>
+
+		<block name="jackOLanternRedRH">
+			<property name="Material" value="Morganic" />
+			<property name="CanPickup" value="true" />
+			<property name="MaxDamage" value="200" />
+			<property name="Shape" value="ModelEntity" />
+			<property name="Model" value="#@modfolder:Resources/JaxTeller718_LightedPumpkins.unity3d?jackOLanternRed.prefab" />
+			<property name="Collide" value="sight,movement,melee,bullet,arrow,rocket" />
+			<property name="DescriptionKey" value="jackOLanternDesc" />
+			<property name="Stacknumber" value="5"/>
+			<property name="HeatMapStrength" value="0.5"/>
+			<property name="HeatMapTime" value="600"/>
+			<property name="HeatMapFrequency" value="1"/>
+			<!--once per minute it adds heat map strength -->
+			<property name="FilterTags" value="fdecor,fother" />
+			<property class="RepairItems">
+				<property name="resourceYuccaFibers" value="1"/>
+			</property>
+			<property name="SellableToTrader" value="false" />
+		</block>
+
+	</append>
+
+
+</JaxTeller718>

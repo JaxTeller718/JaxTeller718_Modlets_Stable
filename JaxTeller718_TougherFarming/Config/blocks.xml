@@ -1,0 +1,9 @@
+<JaxTeller718>
+
+	<set xpath="/blocks/block[@name='cropsGrowingMaster']/property[@name='PlantGrowing.GrowthRate']/@value">90.0</set>
+
+	<!--   <insertAfter xpath="/blocks/block[@name='cropsGrowingMaster']/property[@name='Class']" >
+	<property name="PlantGrowing.LightLevelGrow" value="8"/>
+  </insertAfter>  -->
+
+</JaxTeller718>

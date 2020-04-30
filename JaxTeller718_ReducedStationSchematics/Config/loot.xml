@@ -1,0 +1,7 @@
+<JaxTeller718>
+
+	<set xpath="/lootcontainers/lootcontainer[@id='92']/item[@name='workbenchSchematic']/@prob">.05</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='93']/item[@name='cementMixerSchematic']/@prob">.05</set>
+	<set xpath="/lootcontainers/lootcontainer[@id='94']/item[@name='chemistryStationSchematic']/@prob">.05</set>
+
+</JaxTeller718>

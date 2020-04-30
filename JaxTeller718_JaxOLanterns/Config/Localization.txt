@@ -1,0 +1,5 @@
+﻿Key,Source,Context,English
+jackOLanternBlueRH,blocks,Block,Jax O' Lantern (Blue)
+jackOLanternGreenRH,blocks,Block,Jax O' Lantern (Green)
+jackOLanternRedRH,blocks,Block,Jax O' Lantern (Red)
+jackOLanternDesc,blocks,Block,Happy Halloween from the ghoulish Jax. What trick does he have in store for this boo-tiful treat!

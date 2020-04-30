@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_IncreasedZombieSight" />
+		<Description value="Increases the sight of zombies from 30m to 40m" />
+		<Author value="JaxTeller718" />
+		<Version value="1.0" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

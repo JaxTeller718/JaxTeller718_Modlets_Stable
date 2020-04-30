@@ -1,0 +1,22 @@
+<JaxTeller718>
+
+
+
+	<append xpath="/lootcontainers/lootgroup[@name='cupboard']">
+		<item name="drinkBowlEmpty" count="1,3"/>
+
+	</append>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='8']">
+		<item name="drinkBowlEmpty" count="1,2"/>
+	</append>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='21']">
+		<item name="drinkBowlEmpty" count="1,2"/>
+	</append>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='47']">
+		<item name="drinkBowlEmpty" count="1,2"/>
+	</append>
+
+</JaxTeller718>

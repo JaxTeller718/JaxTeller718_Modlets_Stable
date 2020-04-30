@@ -1,0 +1,15 @@
+<JaxTeller718>
+
+
+
+	<append xpath="/lootcontainers/lootgroup[@name='grills']">
+		<item name="resourceCharcoal" count="1,5" prob=".5"/>
+
+	</append>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='5']">
+		<item name="resourceCharcoal" count="1,3" prob="0.5"/>
+	</append>
+
+
+</JaxTeller718>

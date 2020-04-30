@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_IronOre" />
+		<Description value="Reverses the insane decision to remove iron ore from the game" />
+		<Author value="JaxTeller718" />
+		<Version value="1.1" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

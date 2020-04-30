@@ -1,0 +1,66 @@
+<JaxTeller718>
+	<insertAfter xpath="/items/item[@name='meleeHandZombie01']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombie02']/property[@class='Action0']/property[@name='Buff']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieBurning']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieBurningCrawler']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieCop']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.45"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandAnimalZombieDog']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieStrong']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieHazMat']/property[@class='Action0']/property[@name='Buff']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieWorker']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieFootballPlayer']/property[@class='Action0']/property[@name='Buff']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandZombieStripper']/property[@class='Action0']/property[@name='Buff']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandAnimalZombieVulture']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+
+	<insertAfter xpath="/items/item[@name='meleeHandAnimalWolf']/property[@class='Action0']/property[@name='DamageBlock']" >
+		<property name="Range" value="1.25"/>
+		<!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+	</insertAfter>
+</JaxTeller718>

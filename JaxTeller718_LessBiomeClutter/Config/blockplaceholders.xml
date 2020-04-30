@@ -1,0 +1,44 @@
+<JaxTeller718>
+
+
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile01']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile02']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile03']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile04']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile05']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile06']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile07']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile08']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntForestRandomLootHelper']/block[@name='cntTrashPile09']/@prob">0.09</set>
+
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile01']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile02']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile03']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile04']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile05']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile06']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile07']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile08']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntWastelandRandomLootHelper']/block[@name='cntTrashPile09']/@prob">0.09</set>
+
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile01']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile02']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile03']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile04']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile05']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile06']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile07']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile08']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntDesertRandomLootHelper']/block[@name='cntTrashPile09']/@prob">0.09</set>
+
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile01']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile02']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile03']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile04']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile05']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile06']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile07']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile08']/@prob">0.09</set>
+	<set xpath="/blockplaceholders/placeholder[@name='cntBurntForestRandomLootHelper']/block[@name='cntTrashPile09']/@prob">0.09</set>
+
+</JaxTeller718>

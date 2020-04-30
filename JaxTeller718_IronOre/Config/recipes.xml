@@ -1,0 +1,9 @@
+<JaxTeller718>
+	<append xpath="/recipes">
+
+		<recipe name="resourceIronFragmentBundle" count="1" craft_time="10" tags="learnable">
+			<ingredient name="resourceIronFragment" count="1200"/>
+		</recipe>
+
+	</append>
+</JaxTeller718>

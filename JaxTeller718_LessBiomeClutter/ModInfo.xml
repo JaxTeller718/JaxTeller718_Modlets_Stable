@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="JaxTeller718_LessBiomeClutter" />
+		<Description value="Reduces the amount of biome clutter like trash in the streets and also reduces crops found in biomes" />
+		<Author value="JaxTeller718" />
+		<Version value="1.0" />
+		<Website value="https://ravenhearst.enjin.com/" />
+	</ModInfo>
+</xml>

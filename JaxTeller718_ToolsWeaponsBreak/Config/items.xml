@@ -1,0 +1,6 @@
+<JaxTeller718>
+
+
+	<set xpath="/items/item/property[@name='DegradationBreaksAfter' and @value='false']/@value">true</set>
+
+</JaxTeller718>
